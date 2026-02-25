@@ -1,0 +1,7 @@
+{
+  "latestVersion": "6.5",
+  "updateMessage": "📦 **Novidades da versão 6.5:**\n\n✅ Sistema de auto-atualização implementado\n✅ Botão 🔄 para verificar novidades\n✅ Download direto do GitHub\n✅ Instalação automática\n\n✨ **Versões anteriores:**\n• 6.4: Botão de deletar produtos\n• 6.3: Câmera do sistema\n• 6.2: Correções de layout",
+  "downloadUrl": "https://github.com/bemestardojardim/Myapp/releases/download/v6.5/ScannerApp_v6.5.apk",
+  "releaseDate": "2026-02-25",
+  "minVersion": "5.0"
+}
